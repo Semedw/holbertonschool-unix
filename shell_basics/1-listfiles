@@ -1,2 +1,2 @@
-salam
-
+#!/bin/bash
+ls -la
