@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd "$HOME" || {
+    echo "Could not change directory to home."
+    exit 1
+}
